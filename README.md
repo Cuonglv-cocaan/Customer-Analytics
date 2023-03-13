@@ -1,9 +1,9 @@
 # Customer-Analytics
 ## Mini Project about Customer Analysis
 
->Segmentation data
+> **Segmentation data**
 
-`#ID`  `numerical`  : Shows  a unique identificator of a customer.
+`**#ID**`  `numerical`  : Shows  a unique identificator of a customer.
 
 
 
