@@ -41,3 +41,17 @@
 > **Purchase data**
 
 _The dataset consists of information about the purchases of chocolate candy bars of 500 individuals from a given area when entering a physical ‘FMCG’ store in the period of 2 years. All data has been collected through the loyalty cards they use at checkout. The data has been preprocessed and there are no missing values. In addition, the volume of the dataset has been restricted and anonymised to protect the privacy of the customers._
+
+`#ID`  `numerical`  : Shows  a unique identificator of a customer.
+
+`Day`	`numerical` : 	Day when the customer has visited the store 
+
+`Incidence`	`categorical` : 	Purchase Incidence
+* **0 - The customer has not purchased an item from the category of interest**
+*  **1 - The customer has purchased an item from the category of interest**
+
+`Brand` `categorical` : Shows which brand the customer has purchased
+* **0 - No brand was purchased**
+* **1,2,3,4,5 - Brand ID**
+
+`Quantity` `numerical` : 	Number of items bought by the customer from the product category of interest
