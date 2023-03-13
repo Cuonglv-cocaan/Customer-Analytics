@@ -18,3 +18,8 @@
 * **18 - Min value (the lowest age observed in the dataset)**
 * **76 - Max value (the highest age observed in the dataset)**
 
+`Education` `categorical` : Level of education of the customer
+* **0 - other / unknown**
+* **1	high school**
+* **2	university**
+* **3	graduate school**
