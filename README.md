@@ -3,6 +3,8 @@
 
 >Segmentation data
 
-`#ID`
+`#ID`  `numerical`  : Shows  a unique identificator of a customer.
+
+
 
  
