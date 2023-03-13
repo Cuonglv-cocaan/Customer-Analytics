@@ -20,6 +20,6 @@
 
 `Education` `categorical` : Level of education of the customer
 * **0 - other / unknown**
-* **1	high school**
-* **2	university**
-* **3	graduate school**
+* **1	- high school**
+* **2	- university**
+* **3	- graduate school**
