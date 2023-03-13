@@ -28,3 +28,12 @@
 * **35832	- Min value (the lowest income observed in the dataset)**
 * **309364	- Max value (the highest income observed in the dataset)**
 
+`Occupation`	`categorical` :		Category of occupation of the customer.
+* **0	- unemployed / unskilled**
+*  **1 - skilled employee / official**
+*  **2	- management / self-employed / highly qualified employee / officer**
+
+`Settlement size`	`categorical` : The size of the city that the customer lives in.
+* **0 - small city**
+* **1 - mid-sized city**
+* **2 - big city**
