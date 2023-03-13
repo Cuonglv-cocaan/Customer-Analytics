@@ -1,4 +1,8 @@
 # Customer-Analytics
-Mini Project about Customer Analysis
+## Mini Project about Customer Analysis
 
-`#Segmentation data`
+>Segmentation data
+
+`#ID`
+
+ 
