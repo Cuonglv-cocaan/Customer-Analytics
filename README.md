@@ -15,5 +15,5 @@
 
 
 `Age` `numerical`  :The age of the customer in years, calculated as current year minus the year of birth of the customer at the time of creation of the dataset
-* **18 - Min value (the lowest age observed in the dataset)
-* **76 - Max value (the highest age observed in the dataset)
+* **18 - Min value (the lowest age observed in the dataset)**
+* **76 - Max value (the highest age observed in the dataset)**
