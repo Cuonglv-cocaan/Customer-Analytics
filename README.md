@@ -23,3 +23,8 @@
 * **1	- high school**
 * **2	- university**
 * **3	- graduate school**
+
+`Income`	`numerical` : Self-reported annual income in US dollars of the customer.
+* **35832	- Min value (the lowest income observed in the dataset)**
+* **309364	- Max value (the highest income observed in the dataset)**
+
